@@ -45,9 +45,9 @@ your-project/
 └── source
     └── stylesheets
         ├── components
-        │   └── _navpanel.scss
+        │   └── _custom-components.scss
         └── helpers
-            └── _variables.scss
+            └── _custom-variables.scss
 ```
 
 ---
