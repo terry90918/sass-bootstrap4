@@ -40,7 +40,8 @@ gulp.task('sass', function () {
     })
   ];
 
-  return gulp.src(['./source/stylesheets/**/*.sass', './source/stylesheets/**/*.scss'])
+  return gulp
+    .src(['./source/stylesheets/**/*.sass', './source/stylesheets/**/*.scss'])
     .pipe($.plumber())
     .pipe($.sourcemaps.init())
     .pipe($.sass({
