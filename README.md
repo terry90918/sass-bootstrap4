@@ -262,7 +262,7 @@ Bootstrap 的許多元件和通用類別都是透過 Sass map 中定義的一系
 
 Bootstrap 4 中提供的顏色都可用作我們的 `scss/_variables.scss` 文件中的 Sass 變數和 Sass maps。
 
-![全部色彩](source\images\bootstrap4_1.png)
+![全部色彩](source/images/bootstrap4_1.png)
 
 以下是您可以在 Sass 中使用的方法：
 
@@ -282,13 +282,13 @@ Bootstrap 4 中提供的顏色都可用作我們的 `scss/_variables.scss` 文�
 
 我們使用所有色彩的子集來創建一個小的色表，用來產生色彩主題，也同時能透過 `scss/_variables.scss` 使用 Sass 變數、Sass map。
 
-![主題色彩](source\images\bootstrap4_2.png)
+![主題色彩](source/images/bootstrap4_2.png)
 
 ### 灰階
 
 `scss/_variables.scss` 中設置了一組廣泛的灰色變數和一個 Sass maps，整個專案將有一致的灰色陰影。
 
-![灰階](source\images\bootstrap4_3.png)
+![灰階](source/images/bootstrap4_3.png)
 
 在 `_variables.scss` 中，你會發現我們的顏色變數和 Sass maps。以下是 `$colors` Sass maps 的範例：
 
