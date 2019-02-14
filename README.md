@@ -23,7 +23,7 @@ $ npm install
 $ gulp
 
 # 結束
-Windows 版 & Mac 版: Ctrl + C
+Windows 版 & Mac 版: Ctrl + C & Command + C
 
 # 直接將檔案部屬到 GitHub 上
 $ gulp deploy
